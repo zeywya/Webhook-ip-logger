@@ -7,7 +7,7 @@ ipcon = ip.content
 
 
 # your webhook here
-url = 'https://discord.com/api/webhooks/1238927567973781647/bxIRW_FjSRBgb0drj2fyfD47kLfxhEsLMmGDtW5BNPAi1PbY6qgM2CyfROc8AWNMJyWX'
+url = https://discord.com/api/webhooks/1303213422095368203/Up37ogLxkO2u7Wl7FFMftsVn09oc3g0f5Yo_PKmBQFfbgLgctgRU8_cXu_quiP8wbwyw
 
 # this is what will be sent
 data = {
